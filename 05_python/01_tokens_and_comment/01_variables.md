@@ -1,12 +1,8 @@
-Here's **05_python/01_variables.md**:
-
 # Variables in Python 📦
-
----
 
 ## What is a Variable?
 
-A variable is a container that stores data in memory. Think of it as a labeled box where you can put values and retrieve them later by using the label.
+A variable is a container that stores data in memory. Think of it as a labeled box where you can put values and retrieve them later by using the label. They are also known as **Identifiers**.
 
 ```python
 # Variable assignment
@@ -14,6 +10,8 @@ name = "Alice"
 age = 25
 height = 5.7
 ```
+
+Here, the 'name', 'age' and 'height' are "Identifiers" and the values 'Alice', '25', and '5.7' are "Literals".
 
 ---
 
@@ -28,14 +26,15 @@ height = 5.7
 
 ### Python Keywords (Reserved Words)
 
-| | | Keyword | | |
-|---------|---------|---------|---------|---------|
-| False | True | None | and | or |
-| not | if | elif | else | for |
-| while | break | continue | return | def |
-| class | import | from | try | except |
-| finally | raise | with | as | in |
-| is | lambda | global | nonlocal | |
+| | | Keywords | | |
+|--------|----------|----------|----------|---------|
+for      | while    | if       | elif     | else
+True     | False    | break    | continue | None
+not      | and      | or       | pass     | def
+return   | lambda   | try      | except   | finally
+import   | from     | as       | class    | is
+in       | await    | yield    | with     | del
+nonlocal | global   | except   | 
 
 ### Naming Conventions (Best Practices)
 
@@ -54,7 +53,7 @@ is_active = True
 MAX_RETRIES = 3
 
 # Bad variable names
-x = "John"           # Not descriptive
+x = "John"              # Not descriptive
 customer-name = "John"  # Hyphen not allowed
 2nd_customer = "John"   # Cannot start with number
 ```
@@ -146,6 +145,7 @@ def my_function():
 
 my_function()
 # print(local_var)  # Error! Local variable not accessible outside
+print(global_var)   # Displays : I'm global
 ```
 
 ### Modifying Global Variables
@@ -362,9 +362,7 @@ print(f"Final score: {score}")
 
 ## Next Steps
 
-- Proceed to [02_data_types.md](./02_data_types.md) to explore data types in depth
-- Practice creating variables with different names and values
+- Proceed to [02_keywords.md](./02_keywords.md) to explore different keywords in depth
+- Practice using keywords along with variables to apply some features / specifications to the code
 
 ---
-
-*"Code is read more often than it's written. Choose variable names that tell a story."*

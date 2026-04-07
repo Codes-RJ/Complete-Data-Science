@@ -1,5 +1,3 @@
-Here's the updated **05_python/README.md** with more comprehensive information:
-
 # Python for Data Science 🐍
 
 Welcome to the Python section! Python is the most popular programming language for data science. This section will take you from beginner to confident Python programmer.
@@ -56,10 +54,10 @@ Python is a **high-level**, **interpreted**, **object-oriented** programming lan
 
 | File | Description |
 |------|-------------|
-| [01_variables.md](./01_variables.md) | Variables, naming conventions, basic data types |
+| [01_tokens_and_barebones](./01_tokens_and_barebones) | Variables, keywords, comments ...etc |
 | [02_data_types.md](./02_data_types.md) | Numbers, strings, lists, tuples, dictionaries, sets |
-| [03_operators.md](./03_operators.md) | Arithmetic, comparison, logical, assignment operators |
-| [04_control_statements.md](./04_control_statements.md) | If-else, loops, break, continue, pass |
+| [03_conditional_statements.md](./03_conditional_statements.md) | if-elif-else, ternary operators ... etc |
+| [04_loop_statements.md](./04_loop_statements.md) | For loop, while loop, do while loop ...etc |
 | [05_functions.md](./05_functions.md) | Defining functions, parameters, return values, scope |
 | [06_modules_packages.md](./06_modules_packages.md) | Importing, creating modules, pip, virtual environments |
 | [07_file_handling.md](./07_file_handling.md) | Reading/writing files, CSV, JSON |
@@ -393,4 +391,4 @@ print("All imports successful!")
 
 ---
 
-*Let's begin! Open [01_variables.md](./01_variables.md) to start your Python journey.*
+*Let's begin! Open [01_tokens_and_barebones](./01_tokens_and_barebones/README.md) to start your Python journey.*
