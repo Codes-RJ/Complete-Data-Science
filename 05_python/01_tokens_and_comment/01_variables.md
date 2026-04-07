@@ -366,3 +366,5 @@ print(f"Final score: {score}")
 - Practice using keywords along with variables to apply some features / specifications to the code
 
 ---
+
+*"Name your variables like you're naming a child - be descriptive, be consistent, be meaningful."*
