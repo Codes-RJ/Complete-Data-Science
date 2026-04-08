@@ -586,7 +586,7 @@ def process_file(filename):
 
 ## Next Steps
 
-- Proceed to [02_data_types.md](/05_python/02_data_types.md) to learn about data types in Python
+- Proceed to [02_data_types](/05_python/02_data_types/README.md) to learn about data types in Python
 - Practice writing well-commented code
 
 ---

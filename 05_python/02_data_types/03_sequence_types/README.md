@@ -317,9 +317,6 @@ locations[(40.7128, -74.0060)] = "New York"  # Valid
 | `01_lists.md` | Complete list guide with all methods |
 | `02_tuples.md` | Complete tuple guide with all methods |
 | `03_ranges.md` | Complete range guide with all methods |
-| `exercises.md` | Practice problems |
-| `solutions.md` | Answer key |
-
 ---
 
 ## 🚀 Quick Start

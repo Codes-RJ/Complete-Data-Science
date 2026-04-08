@@ -1,15 +1,15 @@
 # 📘 SETS (set) – COMPLETE GUIDE
 
 ## 📌 Table of Contents
-1. [What are Sets?](#what-are-sets)
-2. [Creating Sets](#creating-sets)
-3. [Adding and Removing Elements](#adding-and-removing-elements)
-4. [Set Methods](#set-methods)
-5. [Set Operations (Mathematics)](#set-operations-mathematics)
-6. [Set Comprehensions](#set-comprehensions)
-7. [Frozensets](#frozensets)
-8. [Real-World Examples](#real-world-examples)
-9. [Common Pitfalls](#common-pitfalls)
+1.  [What are Sets?](#what-are-sets)
+2.  [Creating Sets](#creating-sets)
+3.  [Adding and Removing Elements](#adding-and-removing-elements)
+4.  [Set Methods](#set-methods)
+5.  [Set Operations (Mathematics)](#set-operations-mathematics)
+6.  [Set Comprehensions](#set-comprehensions)
+7.  [Frozensets](#frozensets)
+8.  [Real-World Examples](#real-world-examples)
+9.  [Common Pitfalls](#common-pitfalls)
 10. [Performance Tips](#performance-tips)
 11. [Practice Exercises](#practice-exercises)
 

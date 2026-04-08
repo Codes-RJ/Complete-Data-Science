@@ -1,15 +1,15 @@
 # 📘 TUPLES (tuple) – COMPLETE GUIDE
 
 ## 📌 Table of Contents
-1. [What are Tuples?](#what-are-tuples)
-2. [Creating Tuples](#creating-tuples)
-3. [Accessing Elements](#accessing-elements)
-4. [Tuple Methods](#tuple-methods)
-5. [Tuple Operations](#tuple-operations)
-6. [Tuple Packing and Unpacking](#tuple-packing-and-unpacking)
-7. [Named Tuples](#named-tuples)
-8. [Real-World Examples](#real-world-examples)
-9. [Common Pitfalls](#common-pitfalls)
+1.  [What are Tuples?](#what-are-tuples)
+2.  [Creating Tuples](#creating-tuples)
+3.  [Accessing Elements](#accessing-elements)
+4.  [Tuple Methods](#tuple-methods)
+5.  [Tuple Operations](#tuple-operations)
+6.  [Tuple Packing and Unpacking](#tuple-packing-and-unpacking)
+7.  [Named Tuples](#named-tuples)
+8.  [Real-World Examples](#real-world-examples)
+9.  [Common Pitfalls](#common-pitfalls)
 10. [Performance Tips](#performance-tips)
 11. [Practice Exercises](#practice-exercises)
 

@@ -175,19 +175,18 @@ Data-Science-Repository/
 │
 ├── 05_python/
 │   ├── README.md
-│   ├── 01_variables.md
-│   ├── 02_data_types.md
-│   ├── 03_operators.md
-│   ├── 04_control_statements.md
-│   ├── 05_functions.md
-│   ├── 06_modules_packages.md
-│   ├── 07_file_handling.md
-│   ├── 08_error_exceptions.md
-│   ├── 09_object_oriented_programming.md
-│   ├── 10_list_comprehensions.md
-│   ├── 11_lambda_functions.md
-│   ├── 12_iterators_generators.md
-│   ├── 13_decorators.md
+│   ├── 01_tokens_and_comment/
+│   ├── 02_data_types/
+│   ├── 03_control_statements.md
+│   ├── 04_functions.md
+│   ├── 05_modules_packages.md
+│   ├── 06_file_handling.md
+│   ├── 07_error_exceptions.md
+│   ├── 08_object_oriented_programming.md
+│   ├── 09_list_comprehensions.md
+│   ├── 10_lambda_functions.md
+│   ├── 11_iterators_generators.md
+│   ├── 12_decorators.md
 │   └── interview_questions.md
 │
 ├── 06_r_programming/

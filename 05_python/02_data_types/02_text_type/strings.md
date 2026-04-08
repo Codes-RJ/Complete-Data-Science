@@ -25,7 +25,7 @@ multi_line = """This is
 a multi-line
 string"""
 empty = ""
-unicode_str = "こんにちは"  # Japanese
+unicode_str = ".__ .. _"  # Morse Code
 emoji_str = "Python 🐍"
 ```
 
@@ -542,7 +542,7 @@ print(process_file("data.txt"))  # "data_processed.txt"
 
 ```python
 # encode() - Convert string to bytes
-s = "Hello 世界"
+s = "Hello"
 utf8_bytes = s.encode('utf-8')
 utf16_bytes = s.encode('utf-16')
 ascii_bytes = s.encode('ascii', errors='ignore')  # Ignore non-ascii
@@ -553,7 +553,7 @@ print(utf16_bytes)  # b'\xff\xfeH\x00e\x00l\x00l\x00o\x00 \x00\x16N\x8c\x75'
 # decode() - Convert bytes to string
 bytes_data = b'Hello \xe4\xb8\x96\xe7\x95\x8c'
 decoded = bytes_data.decode('utf-8')
-print(decoded)  # "Hello 世界"
+print(decoded)
 
 # Real use: Reading binary files
 with open('file.txt', 'rb') as f:
@@ -568,7 +568,7 @@ def safe_encode(text, encoding='utf-8'):
     except UnicodeEncodeError:
         return text.encode(encoding, errors='replace')
 
-print(safe_encode("Hello 世界", 'ascii'))  # b'Hello ??'
+print(safe_encode("Hello", 'ascii'))
 ```
 
 ---

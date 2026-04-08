@@ -732,7 +732,7 @@ Already covered in Strip Methods section.
 Returns encoded version of the string as bytes object.
 
 ```python
-s = "Hello 世界"
+s = "Hello"
 
 # UTF-8 encoding
 utf8_bytes = s.encode('utf-8')

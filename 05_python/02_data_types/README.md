@@ -217,57 +217,47 @@ Python Data Types
 │   ├── README.md
 │   ├── 01_integers.py                 # Complete int guide
 │   ├── 02_floats.py                   # Complete float guide
-│   ├── 03_complex_numbers.py          # Complete complex guide
-│   └── exercises.md
+│   └── 03_complex_numbers.py          # Complete complex guide
 │
 ├── 02_text_type/
 │   ├── README.md
 │   ├── strings.py                     # Complete str guide
-│   ├── string_methods.py              # All 40+ methods
-│   ├── string_formatting.py           # f-strings, format(), %
-│   └── exercises.md
+│   └── string_methods.py              # All 40+ methods
 │
 ├── 03_sequence_types/
 │   ├── README.md
 │   ├── 01_lists.py                    # Complete list guide
 │   ├── 02_tuples.py                   # Complete tuple guide
-│   ├── 03_ranges.py                   # Complete range guide
-│   └── exercises.md
+│   └── 03_ranges.py                   # Complete range guide
 │
 ├── 04_set_types/
 │   ├── README.md
 │   ├── 01_sets.py                     # Complete set guide
-│   ├── 02_frozensets.py               # Complete frozenset guide
-│   └── exercises.md
+│   └── 02_frozensets.py               # Complete frozenset guide
 │
 ├── 05_mapping_type/
 │   ├── README.md
 │   ├── dictionaries.py                # Complete dict guide
-│   ├── dict_methods.py                # All dict methods
-│   └── exercises.md
+│   └── dict_methods.py                # All dict methods
 │
 ├── 06_boolean_type/
 │   ├── README.md
-│   ├── booleans.py                    # Complete bool guide
-│   └── exercises.md
+│   └── booleans.py                    # Complete bool guide
 │
 ├── 07_binary_types/
 │   ├── README.md
 │   ├── 01_bytes.py                    # Complete bytes guide
 │   ├── 02_bytearray.py                # Complete bytearray guide
-│   ├── 03_memoryview.py               # Complete memoryview guide
-│   └── exercises.md
+│   └── 03_memoryview.py               # Complete memoryview guide
 │
 ├── 08_none_type/
 │   ├── README.md
-│   ├── none_type.py                   # Complete None guide
-│   └── exercises.md
+│   └── none_type.py                   # Complete None guide
 │
 ├── 09_type_conversion/
 │   ├── README.md
 │   ├── explicit_conversion.py         # int(), str(), list(), etc.
-│   ├── implicit_conversion.py         # Automatic conversion
-│   └── exercises.md
+│   └── implicit_conversion.py         # Automatic conversion
 │
 ├── 10_real_world_projects/
 │   ├── banking_system.py              # Uses int, float, dict
