@@ -49,9 +49,9 @@ Welcome to your Data Science learning journey! This roadmap will guide you throu
 
 ## ✅ Quick Navigation
 
-- [Detailed Learning Path](./learning_path.md) - Complete breakdown with topics
-- [Timeline](./timeline.md) - Weekly schedule and milestones
+- [Detailed Learning Path](./01_learning_path.md) - Complete breakdown with topics
+- [Timeline](./02_timeline.md) - Weekly schedule and milestones
 
 ---
 
-*Start with [learning_path.md](./learning_path.md) for the complete topic breakdown.*
+*Start with [learning_path.md](./01_learning_path.md) for the complete topic breakdown.*

@@ -443,6 +443,10 @@ if value is None:
     pass
 ```
 
+## Next Step
+
+- Go to [none_type.md](none_type.md) for understanding the details of None Data Type.
+
 ---
 
 *Master None for handling missing and optional values! 🐍✨*

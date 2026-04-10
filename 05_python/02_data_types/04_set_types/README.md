@@ -358,10 +358,7 @@ print(have_common([1, 2, 3], [4, 5, 6]))  # False
 
 ## 📚 Next Steps
 
-After understanding set basics:
-1. Open `01_sets.md` for detailed set methods
-2. Open `02_frozensets.md` for immutable sets
-3. Complete exercises in `exercises.md`
+- Go to [01_sets.md](01_sets.md) for understanding about Sets Data Type.
 
 ---
 

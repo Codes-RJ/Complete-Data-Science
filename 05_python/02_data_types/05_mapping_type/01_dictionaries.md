@@ -1936,6 +1936,10 @@ d.copy()                        # Shallow copy
 copy.deepcopy(d)                # Deep copy
 ```
 
+## 📚 Next Steps
+
+- Move to [02_dict_methods.md](02_dict_methods.md) for understanding about methods of Dictionaries.
+
 ---
 
 *Master dictionaries for fast, flexible key-value storage! 🐍✨*

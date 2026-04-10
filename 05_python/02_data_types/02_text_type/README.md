@@ -349,11 +349,7 @@ python strings.py
 
 ## 📚 Next Steps
 
-After understanding string basics:
-1. Open `strings.md` for detailed examples
-2. Study `string_methods.md` for all methods
-3. Master `string_formatting.md` for output formatting
-4. Complete exercises in `exercises.md`
+- Go to [01_strings.md](01_strings.md) for starting with detailed String Data Type.
 
 ---
 

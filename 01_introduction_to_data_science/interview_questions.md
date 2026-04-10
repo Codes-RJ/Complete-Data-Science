@@ -340,6 +340,11 @@ Rate your confidence (1=Need review, 5=Ready for interview):
 4. **Ask clarifying questions** - Shows critical thinking
 5. **Be honest about limitations** - Better than pretending
 
+## Next Steps
+
+- Proceed to [Excel](/02_excel/README.md) to understand the step-by-step process
+- Understand the basics to move towards highs.
+
 ---
 
 *"The goal is not to memorize answers but to truly understand concepts so you can explain them naturally."*

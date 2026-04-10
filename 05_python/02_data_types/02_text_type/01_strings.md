@@ -1627,6 +1627,10 @@ f"{name}"              # f-string
 r"raw"                 # Raw string
 ```
 
+## Next Steps
+
+- Move to [02_string_methods.md](02_string_methods.md) for starting with functions of Strings.
+
 ---
 
 *Master strings, and you'll handle all text processing needs with confidence! 🐍✨*

@@ -1442,3 +1442,7 @@ None, False, 0, 0.0, "", [], (), {}
 if value is None:           # Check for None only
 if not value:               # Check for any falsy value
 ```
+
+## Next Step
+
+- Go to [09_type_conversion](/05_python/02_data_types/09_type_conversion/README.md) for understanding the details of None Data Type.

@@ -215,4 +215,11 @@ A 24-week schedule to master Data Science. Adjust pace based on your availabilit
 
 ---
 
+## Next Steps
+
+- Proceed to [Introduction to Data Science](/01_introduction_to_data_science/README.md) to understand the step-by-step process
+- Understanding the timeline is the first step to understanding your limits and push-pass it.
+
+---
+
 *Start with Week 1 and check off each item as you go. Happy learning! 🚀*

@@ -1441,6 +1441,10 @@ p._asdict()              # Convert to dict
 p._replace(x=30)         # Create copy with changed field
 ```
 
+## 📚 Next Steps
+
+- Move to [03_ranges.md](03_ranges.md) for list type sequential data.
+
 ---
 
 *Master tuples for immutable, memory-efficient collections! 🐍✨*

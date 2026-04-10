@@ -9,7 +9,6 @@ Thank you for your interest in contributing to this Data Science Repository! ðŸŽ
 - [Contribution Guidelines](#contribution-guidelines)
 - [Style Guidelines](#style-guidelines)
 - [Pull Request Process](#pull-request-process)
-- [Questions or Concerns?](#questions-or-concerns)
 
 ## Code of Conduct
 
@@ -219,12 +218,6 @@ When adding projects:
    - Expected outcomes
    - Solution/approach (if applicable)
 3. Link to any notebooks in the `notebooks/` folder
-
-## Questions or Concerns?
-
-- **Open an issue** for discussion
-- **Tag maintainers** with @mentions if urgent
-- **Email**: your.email@example.com
 
 ## Recognition
 

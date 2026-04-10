@@ -822,6 +822,10 @@ with open('file.txt', 'wb') as f:
 | Check start/end | `startswith()`, `endswith()` |
 | Remove prefix/suffix | `removeprefix()`, `removesuffix()` |
 
+## Next Steps
+
+- Move to [03_string_formatting.md](03_string_formatting.md) for starting with formatting of Strings.
+
 ---
 
 *This completes the string methods reference! 🐍✨*

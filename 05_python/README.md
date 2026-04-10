@@ -54,8 +54,8 @@ Python is a **high-level**, **interpreted**, **object-oriented** programming lan
 
 | File | Description |
 |------|-------------|
-| [01_tokens_and_barebones](./01_tokens_and_barebones) | Variables, keywords, comments ...etc |
-| [02_data_types.md](./02_data_types.md) | Numbers, strings, lists, tuples, dictionaries, sets |
+| [01_tokens_and_comment](./01_tokens_and_comment) | Variables, keywords, comments ...etc |
+| [02_data_types](./02_data_types/README.md) | Numbers, strings, lists, tuples, dictionaries, sets |
 | [03_conditional_statements.md](./03_conditional_statements.md) | if-elif-else, ternary operators ... etc |
 | [04_loop_statements.md](./04_loop_statements.md) | For loop, while loop, do while loop ...etc |
 | [05_functions.md](./05_functions.md) | Defining functions, parameters, return values, scope |
@@ -342,7 +342,7 @@ if condition:
 
 1. **Install Python** and set up virtual environment
 2. **Install VS Code** and Python extensions
-3. **Start with** [01_variables.md](./01_variables.md)
+3. **Start with** [Tokens and Comment](./01_tokens_and_comment/README.md)
 4. **Code along** with every example
 5. **Complete exercises** at the end of each file
 6. **Build mini-projects** as you learn
@@ -391,4 +391,4 @@ print("All imports successful!")
 
 ---
 
-*Let's begin! Open [01_tokens_and_barebones](./01_tokens_and_barebones/README.md) to start your Python journey.*
+*Let's begin! Open [01_tokens_and_comment](./01_tokens_and_comment/README.md) to start your Python journey.*

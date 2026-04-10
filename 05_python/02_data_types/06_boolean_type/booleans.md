@@ -1558,6 +1558,10 @@ if condition1 and condition2:  # Both true
 if condition1 or condition2:   # At least one true
 ```
 
+## Next Step
+
+- Go to [07_binary_type](/05_python/02_data_types/07_binary_types/README.md) for learning the Binary system and Data Type.
+
 ---
 
 *Master booleans for logical operations and control flow! 🐍✨*

@@ -183,6 +183,12 @@ Python Data Types
 
 ---
 
+## Prerequisites
+
+- Basic knowledge about Python syntax, data types, functions, modules and OOPS.
+
+---
+
 ## 📊 Quick Reference Table
 
 | Type | Mutability | Ordered | Syntax Example | Use Case |
@@ -259,13 +265,13 @@ Python Data Types
 │   ├── explicit_conversion.py         # int(), str(), list(), etc.
 │   └── implicit_conversion.py         # Automatic conversion
 │
-├── 10_real_world_projects/
-│   ├── banking_system.py              # Uses int, float, dict
-│   ├── student_manager.py             # Uses list, dict, set
-│   ├── inventory_system.py            # Uses dict, list, tuple
-│   └── contact_book.py                # Uses dict, list, str
+├── 10_type_checking/
+│   ├── 01_isinstance_type.md
+│   ├── 02_type_hints.md
+│   └── README.md
 │
-└── PRACTICE_EXERCISES.md              # Mixed practice sheet
+├── PRACTICE_EXERCISES.md              # Mixed practice sheet
+└── solutions.md
 ```
 
 ---
@@ -476,6 +482,10 @@ print(f"{name} is {age} years old")
 # Even with expressions
 print(f"{name.upper()} will be {age + 10} in 10 years")
 ```
+
+## Next Step
+
+- Go to [01_numeric_types](./01_numeric_types/README.md) for starting with basics of data types.
 
 ---
 

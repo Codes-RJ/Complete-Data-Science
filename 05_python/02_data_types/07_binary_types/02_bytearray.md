@@ -1,8 +1,8 @@
 # 📘 BYTEARRAY – COMPLETE GUIDE
 
 ## 📌 Table of Contents
-1. [What is Bytearray?](#what-is-bytearray)
-2. [Creating Bytearray](#creating-bytearray)
+1. What is Bytearray?
+2. Creating Bytearray
 3. Bytearray Methods
 4. Bytearray Operations
 5. Modifying Bytearray
@@ -1306,3 +1306,7 @@ ba.translate(table)                # Translate
 ba.hex()                           # To hex string
 ba.hex(' ')                        # Hex with spaces
 ```
+
+## Next Step
+
+- Move to [03_memoryview.md](03_memoryview.md) for understanding Memoryiew Data Type.

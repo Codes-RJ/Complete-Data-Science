@@ -1312,6 +1312,10 @@ for i in range(len(lst)):      # Loop over indices
 for i, item in enumerate(lst): # Better: get index and value
 ```
 
+## Next Step
+
+- Go to [04_set_types](/05_python/02_data_types/04_set_types/README.md) for understanding about Set Data Types.
+
 ---
 
 *Master ranges for memory-efficient and fast numerical sequences! 🐍✨*

@@ -351,16 +351,6 @@ if len(my_list) > 1:
 
 ---
 
-## 📚 Next Steps
-
-After understanding sequence basics:
-1. Open `01_lists.md` for detailed list methods
-2. Open `02_tuples.md` for tuple patterns
-3. Open `03_ranges.md` for efficient looping
-4. Complete exercises in `exercises.md`
-
----
-
 ## 🔗 Related Topics
 
 - **Strings** – Sequence of characters
@@ -398,6 +388,10 @@ if not my_list:        # ✅ Pythonic
 for i, item in enumerate(my_list):
     print(f"{i}: {item}")
 ```
+
+## 📚 Next Steps
+
+- Move to [01_lists.md](01_lists.md) for list type sequential data.
 
 ---
 

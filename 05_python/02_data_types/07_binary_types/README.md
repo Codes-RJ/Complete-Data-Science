@@ -376,10 +376,7 @@ print(is_binary('hello'))       # False
 
 ## 📚 Next Steps
 
-After understanding binary types basics:
-1. Open `01_bytes.md` for detailed bytes guide
-2. Open `02_bytearray.md` for mutable bytes
-3. Open `03_memoryview.md` for zero-copy views
+- Go to [01_bytes.md](01_bytes.md) for detailed bytes guide
 
 ---
 

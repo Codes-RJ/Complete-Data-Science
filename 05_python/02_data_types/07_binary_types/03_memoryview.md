@@ -1261,3 +1261,7 @@ view.release()                   # Release view
 'f' - float (4 bytes)
 'd' - double (8 bytes)
 ```
+
+## Next Step
+
+- Move to [08_none_type](/05_python/02_data_types/08_none_type/README.md) for understanding None Data Type.

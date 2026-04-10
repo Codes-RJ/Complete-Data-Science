@@ -1431,6 +1431,10 @@ z1 / z2                       # Division
 z1 ** 2                       # Power
 ```
 
+## 📚 Next Steps
+
+- Go to [02_text_data_type](/05_python/02_data_types/02_text_type/README.md) to learn it in detail.
+
 ---
 
 *Master complex numbers, and you'll unlock advanced engineering, physics, and signal processing applications! 🐍✨*

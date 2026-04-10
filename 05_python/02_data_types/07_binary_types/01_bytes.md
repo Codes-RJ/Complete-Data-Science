@@ -1447,6 +1447,10 @@ bytes.fromhex(hex_str)          # Hex → bytes
 list(b)                         # Bytes → list of ints
 ```
 
+## Next Step
+
+- Move to [02_bytearray.md](02_bytearray.md) for understanding Bytearray Data Type.
+
 ---
 
 *Master bytes for efficient binary data handling! 🐍✨*

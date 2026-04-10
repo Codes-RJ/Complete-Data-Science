@@ -777,15 +777,6 @@ if count_items(items):
 
 ---
 
-## 🔗 Next Steps
-
-After mastering integers:
-1. Move to `02_floats.md` for decimal numbers
-2. Learn `03_complex_numbers.md` for engineering math
-3. Complete the practice exercises above
-
----
-
 ## 📚 Quick Reference Card
 
 ```python
@@ -818,6 +809,10 @@ x // y  # Floor division
 x % y   # Modulus
 x ** y  # Power
 ```
+
+## 📚 Next Steps
+
+- Go to [02_floats.md](02_floats.md) to learn it in detail.
 
 ---
 

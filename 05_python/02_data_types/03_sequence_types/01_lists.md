@@ -1697,6 +1697,10 @@ max(lst), min(lst)         # Min/max
 sum(lst)                   # Sum of elements
 ```
 
+## 📚 Next Steps
+
+- Move to [02_tuples.md](02_tuples.md) for tuple type sequential data.
+
 ---
 
 *Master lists to handle collections of data efficiently! 🐍✨*

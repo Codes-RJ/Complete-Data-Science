@@ -111,8 +111,8 @@ Data-Science-Repository/
 │
 ├── 00_roadmap/
 │   ├── README.md
-│   ├── learning_path.md
-│   └── timeline.md
+│   ├── 01_learning_path.md
+│   └── 02_timeline.md
 │
 ├── assets/
 │   ├── images/

@@ -199,9 +199,7 @@ python 03_complex_numbers.py
 ## 📚 Next Steps
 
 After understanding these basics:
-1. Open `01_integers.py` for detailed examples
-2. Complete the exercises in `exercises.md`
-3. Move to `02_text_type/` for strings
+- Go to [01_integers.md](01_integers.md) to learn it in detail.
 
 ---
 

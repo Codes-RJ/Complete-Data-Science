@@ -582,6 +582,10 @@ for item in items:
     grouped[category].append(item)
 ```
 
+## 📚 Next Steps
+
+- Move to [06_boolean_type](/05_python/02_data_types/06_boolean_type/README.md) for understanding about Bools in programming.
+
 ---
 
 *Master dictionary methods for efficient key-value operations! 🐍✨*

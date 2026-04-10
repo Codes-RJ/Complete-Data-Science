@@ -1041,15 +1041,6 @@ d[Decimal('0.3')] = "value"
 
 ---
 
-## 🔗 Next Steps
-
-After mastering floats:
-1. Review `01_integers.md` for whole numbers
-2. Move to `03_complex_numbers.md` for advanced math
-3. Learn about `decimal.Decimal` for exact precision
-
----
-
 ## 📚 Quick Reference Card
 
 ```python
@@ -1086,6 +1077,10 @@ math.pi                 # 3.14159...
 math.e                  # 2.71828...
 math.tau                # 6.28318...
 ```
+
+## Next Step
+
+- Go to [03_complex_numbers.md](03_complex_numbers.md) for completion of Numeric Data Types.
 
 ---
 

@@ -1354,6 +1354,10 @@ x not in fs                     # Non-membership
 hash(fs)                        # Hash value (hashable)
 ```
 
+## Next Step
+
+- Go to [05_mapping_type](/05_python/02_data_types/05_mapping_type/README.md) for understanding about Mapping Data Types  
+
 ---
 
 *Master frozensets for immutable, hashable set operations! 🐍✨*

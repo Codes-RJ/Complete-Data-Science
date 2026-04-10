@@ -1142,6 +1142,10 @@ from string import Template
 Template("$name").substitute(name="Alice")
 ```
 
+## Next Steps
+
+- Go to [03_sequence_types](/05_python/02_data_types/03_sequence_types/README.md) for starting with Sequential Data Types.
+
 ---
 
 *Master string formatting to create beautiful, professional output! 🐍✨*

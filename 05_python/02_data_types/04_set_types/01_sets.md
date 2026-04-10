@@ -1652,6 +1652,10 @@ x not in s                  # Non-membership
 {x**2 for x in range(10)}   # Set comprehension
 ```
 
+## Next Step
+
+- Move to [02_frozensets.md](02_frozensets.md) for understanding about Frozensets Data Type.
+
 ---
 
 *Master sets for efficient unique element storage and mathematical operations! 🐍✨*

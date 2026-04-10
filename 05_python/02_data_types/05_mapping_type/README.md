@@ -356,8 +356,6 @@ print(f"Dict is {list_time/dict_time:.0f}x faster!")
 |------|-------------|
 | `dictionaries.md` | Complete dictionary guide with all methods |
 | `dict_methods.md` | All dictionary methods with examples |
-| `exercises.md` | Practice problems |
-| `solutions.md` | Answer key |
 
 ---
 
@@ -434,10 +432,7 @@ print(merged["a"])  # 1 (from defaults)
 
 ## 📚 Next Steps
 
-After understanding dictionary basics:
-1. Open `dictionaries.md` for detailed methods
-2. Open `dict_methods.md` for all methods reference
-3. Complete exercises in `exercises.md`
+- Move to [01_dictionaries.md](01_dictionaries.md) for understanding about Dictionaries in Python.
 
 ---
 

@@ -508,6 +508,10 @@ if any([cond1, cond2, cond3]):
 status = "Active" if is_active else "Inactive"
 ```
 
+## Next Step
+
+- Move to [booleans.md](booleans.md) for understanding more about Booleans in programming.
+
 ---
 
 *Master booleans for logical operations and control flow! 🐍✨*
