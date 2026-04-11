@@ -1050,6 +1050,12 @@ accumulate(iterable)                   # Running sums
 
 ---
 
+## Next Step
+
+- Move to [exercises.md](exercises.md) to practice all function concepts with hands-on problems.
+
+---
+
 *Master functional tools to write concise, expressive, and efficient Python code! 🐍✨*
 
 ---

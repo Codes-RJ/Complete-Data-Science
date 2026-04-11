@@ -1150,7 +1150,7 @@ print(sms.get_class_average())  # ~82.0
 
 ## Next Step
 
-- Go to [03_conditional_statements.md](/05_python/03_conditional_statements.md) for understanding Control Flow and Conditional Statements.
+- Go to [03_conditional_statements](/05_python/03_conditional_statements/README.md) for understanding Control Flow and Conditional Statements.
 
 ---
 
